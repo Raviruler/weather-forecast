@@ -11,6 +11,7 @@ weather app will show the weather information that it will get from the API like
 the weather description (clear sky), and then the user's city and country (Jharkhand,IN).
 
 ![KUL.png](https://github.com/Raviruler/weather-forecast/blob/main/Screenshots/KUL.png)
+![](https://github.com/Raviruler/weather-forecast/blob/main/Screenshots/C.png)
 
 When the user clicks on the temperature value, that will convert it from Celsius to Fahrenheit.
 
